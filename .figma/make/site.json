@@ -1,0 +1,10 @@
+{
+  "description": "Book train and bus travel across India, compare routes and fares, choose seats, manage trips, and access digital tickets in one convenient app.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
